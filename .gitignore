@@ -1,0 +1,19 @@
+# configurazione personale
+env.sh
+
+# ambiente Python
+.venv/
+__pycache__/
+
+# dati scaricati o generati
+data/
+in/
+out/
+*.jsonl
+*.geojsonl
+*.gpkg
+*.zip
+*.csv
+*.csv.gz
+*.log
+.DS_Store
